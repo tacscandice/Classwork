@@ -21,4 +21,18 @@ int main()
 	std::cin >> celsius;
 	float fahrenheit = (9.0 / 5.0) * celsius + 32;
 	std::cout << celsius << " in Fahrenheit is " << fahrenheit << std::endl;
+
+	// Homework
+	// 1
+	float p = 2.0 * 5.5 * pi;
+	float a = 5.5 * 5.5 * pi;
+	std::cout << "P=" << p << std::endl;
+	std::cout << "A=" << a << std::endl;
+
+	// 2
+	float p2 = (2 * 4.5) + (2 * 7.9);
+	float a2 = 4.5 * 7.9;
+	std::cout << "P2=" << p2 << std::endl;
+
 }
+
